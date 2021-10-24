@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Scanner;
-
+//can't figure out how to take out first character and run final array?
 
 
 
